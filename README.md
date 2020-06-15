@@ -1,4 +1,4 @@
-# Burning_Man_Galaxy_House
+# Burning Man Galaxy House
 
 [[Fichier:luciagalaxysquare.png|thumb|Lucia's galaxy house]]
 [[Fichier:Url-2.jpg|thumb|Katy Boynton's Heartfulness sculpture]]
