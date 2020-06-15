@@ -1,7 +1,7 @@
 # Burning Man Galaxy House
 
-[[Fichier:luciagalaxysquare.png|thumb|Lucia's galaxy house]]
-[[Fichier:Url-2.jpg|thumb|Katy Boynton's Heartfulness sculpture]]
+Lucia's galaxy house: ![Luciagalaxysquare](https://user-images.githubusercontent.com/65183668/84675609-c8c50b80-af2c-11ea-96ca-5cd032c09476.png)
+Katy Boynton's Heartfulness sculpture: ![Url-2](https://user-images.githubusercontent.com/65183668/84675655-d9758180-af2c-11ea-8eba-7e1928c8a8b0.jpg)
 
 ## Summary
 The Galaxy House, a decompression/resting structure was designed and created by Lucia Wong
@@ -26,14 +26,14 @@ My walls were made of metal that was rescued from giant ventilation vents from o
 I didn't have enough pieces of metal, so I found big pieces of plywood to make the surface area bigger. And drilled holes through all the metal and plywood to attach them all together. I learned about the magic of self-drilling screws, which is fantastic for holding deep into wood without bolts. At the very end, I cut a little door into the plywood with a jigsaw. 
 
  
-[[Fichier:IMG 0813.jpg|300px]]
+![IMG_0813](https://user-images.githubusercontent.com/65183668/84675695-e5f9da00-af2c-11ea-8fc5-41e15f1e0d15.jpg)
 
 
 **Roof**
 The roof was the most difficult part of all the process because I wanted to install a gigantic panel of glass as a skylight. It was difficult to trust that all my calculations for the body and the legs were correct, in order to support this fragile roof that could be very dangerous if it were to fall on people inside! Luckily, the diagonal roof tiles held into place with brackets, and they were strong enough to hold the big piece of glass. 
 
  
-[[Fichier:IMG 0811.JPG|300px]] 
+![IMG_0811](https://user-images.githubusercontent.com/65183668/84675717-f01bd880-af2c-11ea-9ee3-e43a6860fabf.JPG)
 
 
 **Blacklight interior -- PAINTING PROCESS!**
@@ -42,20 +42,23 @@ First I painted the inside with black primer, spray painted several coats. And t
 Et voila! Finished! 
 
  
-[[Fichier:1400222 10151809010191219 1229475709 o.jpg|275px]]
+![1400222_10151809010191219_1229475709_o](https://user-images.githubusercontent.com/65183668/84675774-ff028b00-af2c-11ea-89af-e56c82e7543c.jpg)
+
+
 
 ## Specification ##
 **dimensions**
 5 feet high x 4 feet diameter-- Octagonal 
-[[Fichier:Rsz_capture_d’écran_2013-11-27_à_172621.png]]
+![Rsz_capture_d’écran_2013-11-27_à_172621](https://user-images.githubusercontent.com/65183668/84675804-0b86e380-af2d-11ea-9fb8-20efbf70e88a.png)
 google sketch
 
 ## Media ##
-[[Fichier:Lucia1.png|300px]]
+![Lucia1](https://user-images.githubusercontent.com/65183668/84675861-1e011d00-af2d-11ea-8745-73d3e9b71d47.png)
+
 Cutting the ventilation to size
-[[Fichier:Lucia2.png|300px]]
+![Lucia2](https://user-images.githubusercontent.com/65183668/84675838-180b3c00-af2d-11ea-961a-3bf9e1ec2d02.png)
 On the transit to Toronto
-[[Fichier:Lucia3.png|300px]]
+![Lucia3](https://user-images.githubusercontent.com/65183668/84675845-1a6d9600-af2d-11ea-97dd-341556bf47e5.png)
 Special galaxy paint!
 
 
